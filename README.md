@@ -49,7 +49,7 @@ If you want to replicate CS2 results, the code and relevant data sets will be pr
 
 * To get started, you will need to download the datasets. Note that for both volumetric flow and water level, there are two datasets each 1gb approximately in size saved in a `.mat` file.
 * To download the flow datasets, visit: `https://zenodo.org/doi/10.5281/zenodo.11442174`.
-* To download the water level dataset, visit: `https://zenodo.org/doi/10.5281/zenodo.11636092`.
+* To download the water depth dataset, visit: `https://zenodo.org/doi/10.5281/zenodo.11636092`.
 
 * Once the files are downloaded, download the source code files from this repo and move the files into the Data folder or any relevant folder that is added to the Matlab path.
 <a id='8'></a>
