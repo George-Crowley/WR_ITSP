@@ -403,7 +403,7 @@ GRNN_mean_square_error = GRNN_square_error / grnn_elements
 % ----------------------------------------------------
 
 %%
-% Figure 10 - Water level sensor selection plot
+% Figure 10 - Water depth sensor selection plot
 
 clear all
 close all
@@ -463,7 +463,7 @@ ylabel(colorbar(), '')
 % ----------------------------------------------------
 
 %%
-% Figure 11 - Water level vs Flow (absolute difference)
+% Figure 11 - Water depth vs Flow (absolute difference)
 
 clear all
 close all
